@@ -9,6 +9,8 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  - text: DE Analysis
+    href: differential-expression.html
   right:
   - icon: fa-github
     text: Source code
